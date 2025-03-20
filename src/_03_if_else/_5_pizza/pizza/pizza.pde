@@ -5,6 +5,6 @@ void setup() {
 void draw() {
     fill(#D1B270);
     ellipse(400,400, 500,500);
-    fill (#FF1500);
-    ellipse(400,400, 450,450);
+    fill ();
+    ellipse(400,400, 420,420);
 }
